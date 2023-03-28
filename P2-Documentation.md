@@ -26,3 +26,26 @@ Close  files that are open on your computer. Use the Eject command to disengage 
 ### 6. Remove the drive from your computer.
 Remove the flash drive connector from the device’s USB port. Store it in a safe place.
 
+## FAQs:
+### How much do USB flash drives cost?
+USB flash drives are priced based on their storage capacity. The price increases the more memory a flash drive has. For example, a standard 16 GB USB can cost about $6 while a 256 GB can cost about $35.
+### What can be stored on a USB flash drive?
+Anything that you can store on your computer can be stored on your flash drive, provided it has enough storage capacity. 
+Examples of things you can store on a flash drive:
+* Programs & Software
+* Videos
+* Websites
+* Music
+* Work-related Files
+* Pictures
+### Will my USB flash drive work with any computer?
+Yes, USB drives are compatible with any computer as long as they have USB ports.
+### Where to purchase one?
+A good tip is to purchase one from a creditable manufacturer or online stores like Ebay, Amazon, Walmart, Staples, Apple Store, and Best Buy.
+
+## Support/Troubleshooting:
+If problems occur with your USB:
+* You can go to the manufacturer’s site 
+* Read online guides on how to troubleshoot
+* Consult with a technician 
+* Watch tutorial videos on YouTube.   
