@@ -1,1 +1,28 @@
-# P2-Documentation
+# Universal Serial BUS(USB) Drive Guide
+
+## Introduction
+The purpose for this guide is to inform individuals on how to operate a USB drive.
+
+## What is a USB?
+A Universal Serial Bus(USB) drive is a device that is used for storing data, and it includes an integrated USB interface along with flash memory.  Most drives are built to be removable, rewritable. compactable, durable and reliable. They tend to operate faster in large storage spaces, and are mechanically well made because no moving parts are included. When plugged into the USB port, they get power from the device to function. Other names for USB drive may also be flash drive or USB flash drive.
+
+## Main Components
+1. ***Standard USB Plug*** - Connects the USB drive to a device.
+1. ***USB Mass Storage Controller*** - Is a microcontroller for the USB that contains a small amount of RAM and ROM.
+1. ***NAND Flash Memory Chip*** - A component where data is stored.
+1. ***Crystal Oscillator*** - A component that controls the data output.
+
+## How to Use
+### 1. Locate the USB port on your device
+USB ports are usually located on the back or side of your device (laptop), or on a desktop monitor.
+### 2. Insert the flash drive into the USB port
+The connector has to be lined up correctly with the computer's port, and slide it in carefully. 
+### 3. Open the flash drive on your computer.
+There is usually a pop-up window indicating that the computer has found a new USB device. Go ahead and click the pop-up to view the device and files. A list of files stored on the flash drive should be visible.
+### 4. Locate the file you want to work with. 
+After locating the file(s) you want, transfer them, either onto the drive or onto your computer. You can remove or add files to the USB drive. You can use Cut or Copy then Paste to place the files where you want them, or left-click on the files, hold down the mouse button, and drag them where you need them.
+### 5. Close all files and click on eject.
+Close  files that are open on your computer. Use the Eject command to disengage the USB from the computer. 
+### 6. Remove the drive from your computer.
+Remove the flash drive connector from the device’s USB port. Store it in a safe place.
+
